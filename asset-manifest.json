@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Rent-App-Interface/static/css/main.b2a25f8c.css",
+    "main.js": "/Rent-App-Interface/static/js/main.a12cb62d.js",
+    "static/media/about.jpg": "/Rent-App-Interface/static/media/about.56e92b20e762df2fa5de.jpg",
+    "static/media/pricing.jpg": "/Rent-App-Interface/static/media/pricing.4552ccf3b91e93029513.jpg",
+    "static/media/services.jpg": "/Rent-App-Interface/static/media/services.13be7fde05782bd5e2e8.jpg",
+    "static/media/banner.png": "/Rent-App-Interface/static/media/banner.1a3c8a0a448e8e24f6a0.png",
+    "index.html": "/Rent-App-Interface/index.html",
+    "main.b2a25f8c.css.map": "/Rent-App-Interface/static/css/main.b2a25f8c.css.map",
+    "main.a12cb62d.js.map": "/Rent-App-Interface/static/js/main.a12cb62d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2a25f8c.css",
+    "static/js/main.a12cb62d.js"
+  ]
+}
